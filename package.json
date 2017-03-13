@@ -1,0 +1,22 @@
+{
+  "name": "home-day-2",
+  "version": "1.0.0",
+  "description": "Solutions to and tests for Home Day 2 exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine */test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oahray/home-day-2.git"
+  },
+  "author": "Oare Arene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oahray/home-day-2/issues"
+  },
+  "homepage": "https://github.com/oahray/home-day-2#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
