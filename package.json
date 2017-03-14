@@ -4,7 +4,9 @@
   "description": "Solutions to and tests for Home Day 2 exercises.",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine */test/*.js"
+    "test": "jasmine */test/*.js",
+    "random-user" : "node http-and-web/randomUser.js",
+    "currency-rates" : "node http-and-web/currency.js"
   },
   "repository": {
     "type": "git",
@@ -16,7 +18,11 @@
     "url": "https://github.com/oahray/home-day-2/issues"
   },
   "homepage": "https://github.com/oahray/home-day-2#readme",
+  "engines": {
+    "node": ">=0.4.0"
+  },
   "dependencies": {
-    "jasmine": "^2.5.3"
+    "jasmine": "^2.5.3",
+    "request": "^2.81.0"
   }
 }
