@@ -6,8 +6,8 @@ This repository contains solutions to and tests for the HTTP-and-WEB and the And
 
 There are three folders in this repository:
    1. http-and-web: containing two submissions for the HTTP and WEB tasks namely -
-   ..1. currencyRates: a simple command line application that displays the latest currency rates with the USD as base.
-   ..2. randomUser: a simple command line application that displays a random generated user profile when run.
+      1. currencyRates: a simple command line application that displays the latest currency rates with the USD as base.
+      2. randomUser: a simple command line application that displays a random generated user profile when run.
    2. reverse-string: containing solution to, and test for the Reverse String Andelab exercise.
    3. words-count: containing solution to, and test for the Words Count Andelab exercise.
 
