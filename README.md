@@ -6,6 +6,7 @@ This repository contains solutions to and tests for the HTTP-and-WEB and the And
 
 There are three folders in this repository:
    1. http-and-web: containing two submissions for the HTTP and WEB tasks namely -
+   
        a. currencyRates: a simple command line application that displays the latest currency rates with the USD as base.
        b. randomUser: a simple command line application that displays a random generated user profile when run.
 
